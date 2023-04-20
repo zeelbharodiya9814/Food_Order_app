@@ -1,7 +1,6 @@
-# e_commerce_app
-
-<img src="https://user-images.githubusercontent.com/118456066/230836205-1f8df68f-b236-49c1-ad1f-353361a54038.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/230836217-bf37a9bd-cf2e-4812-a984-0e9eba708cd7.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/230836221-a8b478b7-75c2-4f6c-8d81-d0a3803e08b5.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/230836228-71aac7ab-822f-4396-85d8-8783b9dd4e84.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/230836240-d2abd89c-3b57-4ec8-964f-c3ef5ee17d75.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/230836248-5e688e47-f44e-4182-873b-ce5dce44fd94.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/230836261-972b4c1c-0a5c-499c-9080-5dab004afc9d.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/230836276-f35f5832-0a14-4472-bfa3-ac1ccdbc65f9.jpg" width="200px">  
 
 
-
-
+<img src="https://user-images.githubusercontent.com/121868184/233374845-9435df46-f127-4b4e-9a21-57bc722ebafd.png" width="200px">  <img src="https://user-images.githubusercontent.com/121868184/233374868-634b7c02-452b-4062-ab0e-09606ecd9f2d.png" width="200px">  
+<img src="https://user-images.githubusercontent.com/121868184/233374901-732aaea0-1948-43ae-ae16-27101a62bd5b.png" width="200px">  
+<img src="https://user-images.githubusercontent.com/121868184/233374907-346ee06c-4518-4840-99df-cdca1d2d1795.png" width="200px">  
+<img src="https://user-images.githubusercontent.com/121868184/233374933-3b763892-4f4d-4f43-8528-696912140651.png" width="200px">  
